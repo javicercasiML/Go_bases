@@ -15,7 +15,7 @@ func main() {
 		if salary >= 150000 {
 			salary -= salary * 0.1
 		}
-		fmt.Println("\nHoras Trabajadas: ", horas, "\nValor Hora: ", valorHora, "\nSalario: ", salary)
+		fmt.Println("\nHoras Trabajadas: ", horas, "hs.\nValor Hora: $", valorHora, "\nSalario: $", salary)
 	}
 }
 
