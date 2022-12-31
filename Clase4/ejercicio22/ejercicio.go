@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	lectura("customer.txt")
+	lectura("customers.txt")
 }
 
 func lectura(path string) {
